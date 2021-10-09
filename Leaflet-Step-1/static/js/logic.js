@@ -110,5 +110,6 @@ d3.json(link).then(function(data) {
   legend.addTo(myMap);
 });
 
-// Legend source1: https://leafletjs.com/examples/choropleth/
-// Legend source2: https://codepen.io/haakseth/pen/KQbjdO
+// Legend Sources: 
+// https://leafletjs.com/examples/choropleth/
+// https://codepen.io/haakseth/pen/KQbjdO
