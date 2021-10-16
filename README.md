@@ -2,7 +2,7 @@
 
 Level 1:
 
-After visiting USGS GeoJson Feed page, a dataset for all earthquakes from the last 7 days is picked up for visualization. 
+After visiting USGS GeoJson Feed page https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson, a dataset for all earthquakes from the last 7 days is picked up for visualization. 
 A Json format file data was obtained for this project. 
 
 A map using Leaflet that plots all of the earthquakes from the dataset based on their longitude and latitude is created.
